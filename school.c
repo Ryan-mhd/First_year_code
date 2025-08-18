@@ -15,9 +15,9 @@ printf("name: %s",student1.name);*/
 
 struct student array[3];
 
-struct student student1 = {15,2.5,10,"mehdi"};
-struct student student2 = {14,3.0,8,"mohand"};
-struct student student3 = {17,5.0,18,"said"};
+struct student student1 = {15,2.5,10,"steven"};
+struct student student2 = {14,3.0,8,"mike"};
+struct student student3 = {17,5.0,18,"tobias"};
 array[0] = student1;
 array[1] = student2;
 array[2] = student3;
