@@ -1,0 +1,1 @@
+These are my codes from first year of university, most of them work properly and some might have small issues. Feel free to point out errors or even make the code more efficient, i'm happy to receive feedback and learn from mistakes.
